@@ -1,5 +1,5 @@
 {
-  "name": "@YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME",
+  "name": "@ali-jahangiri/YOUR_REPOSITORY_NAME",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/YOUR_REPOSITORY_NAME"
   },
