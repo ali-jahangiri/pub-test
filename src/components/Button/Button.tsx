@@ -1,13 +1,5 @@
-import React from "react";
-import "./Button.scss";
+import StyledButton from "./button.style";
 
-export interface ButtonProps {
-  label: string;
-  renderAs ?: string;
-}
-
-const Button = (props: ButtonProps) => {
-  return <button>{props.label} {props.renderAs}</button>;
-};
+const Button = StyledButton;
 
 export default Button;
